@@ -1,4 +1,4 @@
-package com.prashant.inventory.service;
+package com.prashant.inventory;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
