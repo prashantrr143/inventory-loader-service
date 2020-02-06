@@ -1,0 +1,17 @@
+
+spring:  application:    name: Inventory Loader Service
+    
+server:  port: 8080
+          
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+        
+info:
+  app:
+   name: Inventory Loader Service
+   description: Inventory Loader application is used to get Products from inventory
+   version: 1.0.0        
+        
