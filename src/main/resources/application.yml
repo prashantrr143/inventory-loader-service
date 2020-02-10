@@ -19,5 +19,5 @@ info:
   app:
    name: Inventory Loader Service
    description: Inventory Loader application is used to get Products from inventory
-   version: 1.0.0        
+   version: 1.0.0.1     
         
