@@ -2,10 +2,13 @@
 spring:
  application:
   name: Inventory Loader Service
+ data:    mongodb:      database: inventory_management
+  
     
 server:
  port: 9090
-       
+ 
+    
 management:
   endpoints:
     web:
