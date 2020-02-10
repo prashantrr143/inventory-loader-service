@@ -12,7 +12,7 @@ spec:
         name: springboot
     spec:
       containers:
-      - image: prashantsingh21/spring-boot-mongo
+      - image: prashantsingh21/inventory-loader-service
         name: springboot
         ports:
         - name: springboot
