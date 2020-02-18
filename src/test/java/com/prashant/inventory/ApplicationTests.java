@@ -1,4 +1,4 @@
-package com.prashant.inventory.service;
+package com.prashant.inventory;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
